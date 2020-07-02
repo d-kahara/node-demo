@@ -1,0 +1,20 @@
+Thu Jul 02 2020 10:28:22 GMT+0300 (East Africa Time) | INFO | Server | Server has started on Port: 8000 
+Thu Jul 02 2020 10:28:27 GMT+0300 (East Africa Time) | INFO | Server | Request for /index.html has been received with the request method GET 
+Thu Jul 02 2020 10:28:27 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /index.html 
+Thu Jul 02 2020 10:28:27 GMT+0300 (East Africa Time) | INFO | Server | Request for /css/bootstrap.min.css has been received with the request method GET 
+Thu Jul 02 2020 10:28:27 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /css/bootstrap.min.css 
+Thu Jul 02 2020 10:28:27 GMT+0300 (East Africa Time) | INFO | Server | Request for /css/style.css has been received with the request method GET 
+Thu Jul 02 2020 10:28:27 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /css/style.css 
+Thu Jul 02 2020 10:28:27 GMT+0300 (East Africa Time) | INFO | Server | Request for /js/bootstrap.min.js has been received with the request method GET 
+Thu Jul 02 2020 10:28:27 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /js/bootstrap.min.js 
+Thu Jul 02 2020 10:28:27 GMT+0300 (East Africa Time) | INFO | Server | Request for /css/assets/logo.png has been received with the request method GET 
+Thu Jul 02 2020 10:28:27 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /css/assets/logo.png 
+Thu Jul 02 2020 10:28:27 GMT+0300 (East Africa Time) | INFO | Server | Request for /css/assets/mouse_click.png has been received with the request method GET 
+Thu Jul 02 2020 10:28:27 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /css/assets/mouse_click.png 
+Thu Jul 02 2020 10:28:27 GMT+0300 (East Africa Time) | INFO | Server | Request for /css/assets/h_img.jpg has been received with the request method GET 
+Thu Jul 02 2020 10:28:27 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /css/assets/h_img.jpg 
+Thu Jul 02 2020 10:28:27 GMT+0300 (East Africa Time) | INFO | Server | Request for /css/assets/s_image.jpg has been received with the request method GET 
+Thu Jul 02 2020 10:28:27 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /css/assets/s_image.jpg 
+Thu Jul 02 2020 10:28:27 GMT+0300 (East Africa Time) | INFO | Server | Request for /favicon.ico has been received with the request method GET 
+Thu Jul 02 2020 10:28:27 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /favicon.ico 
+Thu Jul 02 2020 10:28:27 GMT+0300 (East Africa Time) | INFO | Router | No request handler found for /favicon.ico 
